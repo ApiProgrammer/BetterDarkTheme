@@ -78,3 +78,15 @@
     -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
     box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
 }
+.theme-dark .root-1gCeng {
+    background-color: #0c0c0c;
+    border-radius: 5px;
+    margin: 0 auto;
+    pointer-events: all;
+    position: relative;
+}
+.theme-dark .footer-2gL1pp {
+    background-color: #090909;
+    -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+    box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+}

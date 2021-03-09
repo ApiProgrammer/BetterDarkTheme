@@ -10,7 +10,7 @@
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
     --background-primary: #0C0C0C;
-    --background-secondary: #010101;
+    --background-secondary: #0b0b0b;
     --background-secondary-alt: #0D0D0D;
     --background-tertiary: #0F0F0F;
     --background-accent: #020202;
@@ -89,4 +89,7 @@
     background-color: #090909;
     -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
     box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+}
+.theme-dark .container-1D34oG {
+    background-color: #0f0f0f;
 }

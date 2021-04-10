@@ -57,11 +57,66 @@ h3 {
   color: #78e08f;
 }
 
-.My-Link {
-  font-size: 20px;
+.bottombar {
   position: absolute;
   bottom: 20px;
   margin-left: 30px;
+}
+.bottombar * {
+  margin: 5px;
+}
+
+.My-Link {
+  font-size: 20px;
   font-family: 'Courier Prime', monospace;
   color: #78e08f;
+}
+.My-Link:hover {
+  text-decoration: underline;
+}
+
+@keyframes color-change {
+    0% {
+        color: #f45c41
+    }
+    10% {
+        color: #f4ac41
+    }
+    20% {
+        color: #f4f441
+    }
+    30% {
+        color: #4ef442
+    }
+    40% {
+        color: #41b5f4
+    }
+    50% {
+        color: #8a4cff
+    }
+    60% {
+        color: #41b5f4
+    }
+    70% {
+        color: #4ef442
+    }
+    80% {
+        color: #f4f441
+    }
+    90% {
+        color: #f4ac41
+    }
+    to {
+        color: #f45c41
+    }
+}
+
+.magik {
+  font-size: 20px;
+  font-family: 'Courier Prime', monospace;
+  color: inherit;
+  animation: color-change 7s infinite;
+}
+.magik:hover {
+  text-decoration: underline;
 }

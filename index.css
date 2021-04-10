@@ -1,7 +1,7 @@
 body {
   background-color: #222f3e;
   color: #c8d6e5;
-  font-family: HCo Gotham SSm,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+  font-family: HCo Gotham SSm, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
 }
 
 a {
@@ -14,7 +14,7 @@ h3 {
   color: #8395a7;
 }
 
-.latest{
+.latest {
   margin-left: 30px;
   height: 40px;
   width: 170px;

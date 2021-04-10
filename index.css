@@ -49,6 +49,7 @@ h3 {
   margin-top: 5px;
 }
 .other-versions span {
+  margin-left: 25px;
   font-family: 'Courier Prime', monospace;
 }
 .other-versions a {

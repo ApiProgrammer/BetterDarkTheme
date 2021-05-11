@@ -96,18 +96,8 @@
 .theme-dark .inset-3sAvek {
     background-color: #0C0C0C;
 }
-.theme-dark .root-1gCeng {
-    background-color: #ddd;
-}
-
-.theme-dark .footer-2gL1pp {
-    background-color: #ccc;
-    -webkit-box-shadow: inset 0 1px 0 rgba(204, 204, 204, 0.6);
-    box-shadow: inset 0 1px 0 rgba(204, 204, 204, 0.6);
-}
 
 .container-UC8Ug1 {
-    background-color: #eee;
     transition: background 1s;
     -webkit-transition: background 1s
 }
